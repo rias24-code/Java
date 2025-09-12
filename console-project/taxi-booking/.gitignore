@@ -1,0 +1,30 @@
+# Eclipse/IDE files
+/.classpath
+/.project
+/.settings/
+
+# Build folders
+/bin/
+/target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Ignore any IDE-specific files
+*.iml
+*.idea/
+
+# Node modules (if using JS frontend in future)
+node_modules/
+
+# Package locks (if using Node in future)
+package-lock.json
+yarn.lock
